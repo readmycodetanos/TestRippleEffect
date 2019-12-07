@@ -1,5 +1,6 @@
 # TestRippleEffect
 test ripple effect custom (2019-12-07)
+```
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="#40F44336"
     >
@@ -18,3 +19,4 @@ test ripple effect custom (2019-12-07)
 <!--        </shape>-->
 <!--    </item>-->
 </ripple>
+```
